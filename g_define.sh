@@ -1,4 +1,4 @@
 #!/bin/bash
 
-export IP=127.0.0.1
-export PORT=22245
+export SERVER_IP=127.0.0.1
+export SERVER_PORT=22245
